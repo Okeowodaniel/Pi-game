@@ -91,7 +91,7 @@ main {
 
   @media (max-width: 34em) {
     font-size: 4rem;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
   }
 }
 
@@ -122,6 +122,7 @@ main {
   @media (max-width: 34em) {
     padding: 1rem;
     font-size: rem;
+    /* margin-bottom: -1.2rem; */
   }
 }
 
@@ -193,9 +194,9 @@ main {
   top: 39.3rem;
 
   @media (max-width: 34em) {
-    /* width: 50%; */
     font-size: 1rem;
-    top: 26rem;
+    top: 25rem;
+    padding: 1rem 1rem;
     left: 20%;
   }
 }
@@ -204,6 +205,7 @@ main {
 
   @media (max-width: 34em) {
     top: 51.5rem;
+    /* right: 70%; */
   }
 }
 
@@ -226,7 +228,7 @@ main {
 
   @media (max-width: 34em) {
     height: 5rem;
-    top: 25rem;
+    top: 24rem;
   }
 }
 
